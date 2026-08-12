@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+# personal saved names, created at runtime
+favorites.txt
