@@ -79,13 +79,6 @@ Pure data — add an entry to `GENRES` in `generator.py`:
 The terminal menu and the GUI dropdown both read their options from `GENRES`,
 so it appears in each without touching interface code.
 
-## Ideas for later
-
-- Delete favourites (rewriting the file instead of appending to it)
-- Store favourites as JSON with genre and date, not just a name
-- A favourites tab in the GUI (`QTabWidget`)
-- `pytest` tests for `generator.py`
-
 ---
 
 Built as a step-by-step Python learning exercise: lists and dicts, functions as
