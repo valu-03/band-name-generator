@@ -80,6 +80,3 @@ The terminal menu and the GUI dropdown both read their options from `GENRES`,
 so it appears in each without touching interface code.
 
 ---
-
-Built as a step-by-step Python learning exercise: lists and dicts, functions as
-values, exceptions, file I/O, modules, classes, and event-driven GUI code.
